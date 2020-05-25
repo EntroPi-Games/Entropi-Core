@@ -1,0 +1,17 @@
+{
+  "name": "com.entropi.core",
+  "version": "1.0.0",
+  "displayName": "EntroPi Core",
+  "description": "EntroPi Games Core Library",
+  "unity": "2018.4",
+ "keywords": [
+    "EntroPi Games",
+    "EntroPi",
+    "Core"
+  ],
+  "author": {
+    "name": "EntroPi Games",
+    "email": "info@entropi-games.com",
+    "url": "https://www.entropi-games.com"
+  }
+}
